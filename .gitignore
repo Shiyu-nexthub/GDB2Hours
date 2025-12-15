@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+*.user
+
+# VisualGDB
+.visualgdb/
+
+# Build outputs
+Debug/
+Release/
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+Screenshot 2025-12-12 164855.png
